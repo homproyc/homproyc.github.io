@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://homproyc.github.io/sitemap.html.gz
+Sitemap: https://homproyc.github.io/app/sitemap.html.gz
+Sitemap: https://homproyc.github.io/assets/sitemap.html.gz
+Sitemap: https://homproyc.github.io/css/sitemap.html.gz
+Sitemap: https://homproyc.github.io/includes/sitemap.html.gz
+Sitemap: https://homproyc.github.io/item/sitemap.html.gz
+Sitemap: https://homproyc.github.io/src/sitemap.html.gz
